@@ -20,4 +20,4 @@ function calculadora(num1, num2, operacao) {
   return resultado;
 }
 
-console.log(calculadora(10, 5, "soma")); // 15
+console.log(calculadora(10, 5, "soma")); 
